@@ -1,1 +1,0 @@
-<h3>Slack alt for VERP</h3>
